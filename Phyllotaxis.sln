@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phyllotaxis", "Phyllotaxis\Phyllotaxis.csproj", "{525203B2-8455-415E-A20C-EB7CF6979C41}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MorphxLibs", "MorphxLibs\MorphxLibs.shproj", "{F92EE134-8CB3-455A-9160-841004898E8D}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		MorphxLibs\MorphxLibs.projitems*{525203b2-8455-415e-a20c-eb7cf6979c41}*SharedItemsImports = 4
+		MorphxLibs\MorphxLibs.projitems*{f92ee134-8cb3-455a-9160-841004898e8d}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525203B2-8455-415E-A20C-EB7CF6979C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525203B2-8455-415E-A20C-EB7CF6979C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525203B2-8455-415E-A20C-EB7CF6979C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525203B2-8455-415E-A20C-EB7CF6979C41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA10421E-E5A5-456E-9ECD-FCA33CBB78DF}
+	EndGlobalSection
+EndGlobal
