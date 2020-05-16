@@ -1,3 +1,3 @@
 # Phyllotaxis
 
-![Phyllotaxis](https://xfx.net/Phyllotaxis/phyllotaxis01.png)
+![Phyllotaxis](https://xfx.net/stackoverflow/Phyllotaxis/phyllotaxis01.png)
